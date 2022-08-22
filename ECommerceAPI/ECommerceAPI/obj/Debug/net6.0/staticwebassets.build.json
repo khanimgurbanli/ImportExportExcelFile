@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "eXiNZg+iq75YsglyFGskFz/5klOmvq2zSuO02vxEbY4=",
+  "Source": "ECommerceAPI",
+  "BasePath": "_content/ECommerceAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ECommerceAPI\\wwwroot",
+      "Source": "ECommerceAPI",
+      "ContentRoot": "C:\\Users\\INSPIRON\\Downloads\\eCommerceApi-main\\ECommerceAPI\\ECommerceAPI\\ECommerceAPI\\wwwroot\\",
+      "BasePath": "_content/ECommerceAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\INSPIRON\\Downloads\\eCommerceApi-main\\ECommerceAPI\\ECommerceAPI\\ECommerceAPI\\wwwroot\\SalesReport-20220822195058929.xlsx",
+      "SourceId": "ECommerceAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\INSPIRON\\Downloads\\eCommerceApi-main\\ECommerceAPI\\ECommerceAPI\\ECommerceAPI\\wwwroot\\",
+      "BasePath": "_content/ECommerceAPI",
+      "RelativePath": "SalesReport-20220822195058929.xlsx",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\SalesReport-20220822195058929.xlsx"
+    }
+  ]
+}

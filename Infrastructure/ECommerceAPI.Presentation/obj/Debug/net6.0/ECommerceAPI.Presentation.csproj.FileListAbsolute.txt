@@ -1,0 +1,17 @@
+C:\Users\LATITUDE\Desktop\MyFirstOnionApi\ECommerceAPI\Infrastructure\ECommerceAPI.Presentation\bin\Debug\net6.0\ECommerceAPI.Presentation.deps.json
+C:\Users\LATITUDE\Desktop\MyFirstOnionApi\ECommerceAPI\Infrastructure\ECommerceAPI.Presentation\bin\Debug\net6.0\ECommerceAPI.Presentation.dll
+C:\Users\LATITUDE\Desktop\MyFirstOnionApi\ECommerceAPI\Infrastructure\ECommerceAPI.Presentation\bin\Debug\net6.0\ECommerceAPI.Presentation.pdb
+C:\Users\LATITUDE\Desktop\MyFirstOnionApi\ECommerceAPI\Infrastructure\ECommerceAPI.Presentation\bin\Debug\net6.0\ECommerceAPI.Application.dll
+C:\Users\LATITUDE\Desktop\MyFirstOnionApi\ECommerceAPI\Infrastructure\ECommerceAPI.Presentation\bin\Debug\net6.0\ECommerceAPI.Domain.dll
+C:\Users\LATITUDE\Desktop\MyFirstOnionApi\ECommerceAPI\Infrastructure\ECommerceAPI.Presentation\bin\Debug\net6.0\ECommerceAPI.Application.pdb
+C:\Users\LATITUDE\Desktop\MyFirstOnionApi\ECommerceAPI\Infrastructure\ECommerceAPI.Presentation\bin\Debug\net6.0\ECommerceAPI.Domain.pdb
+C:\Users\LATITUDE\Desktop\MyFirstOnionApi\ECommerceAPI\Infrastructure\ECommerceAPI.Presentation\obj\Debug\net6.0\ECommerceAPI.Presentation.csproj.AssemblyReference.cache
+C:\Users\LATITUDE\Desktop\MyFirstOnionApi\ECommerceAPI\Infrastructure\ECommerceAPI.Presentation\obj\Debug\net6.0\ECommerceAPI.Presentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LATITUDE\Desktop\MyFirstOnionApi\ECommerceAPI\Infrastructure\ECommerceAPI.Presentation\obj\Debug\net6.0\ECommerceAPI.Presentation.AssemblyInfoInputs.cache
+C:\Users\LATITUDE\Desktop\MyFirstOnionApi\ECommerceAPI\Infrastructure\ECommerceAPI.Presentation\obj\Debug\net6.0\ECommerceAPI.Presentation.AssemblyInfo.cs
+C:\Users\LATITUDE\Desktop\MyFirstOnionApi\ECommerceAPI\Infrastructure\ECommerceAPI.Presentation\obj\Debug\net6.0\ECommerceAPI.Presentation.csproj.CoreCompileInputs.cache
+C:\Users\LATITUDE\Desktop\MyFirstOnionApi\ECommerceAPI\Infrastructure\ECommerceAPI.Presentation\obj\Debug\net6.0\ECommerceAPI.Presentation.csproj.CopyComplete
+C:\Users\LATITUDE\Desktop\MyFirstOnionApi\ECommerceAPI\Infrastructure\ECommerceAPI.Presentation\obj\Debug\net6.0\ECommerceAPI.Presentation.dll
+C:\Users\LATITUDE\Desktop\MyFirstOnionApi\ECommerceAPI\Infrastructure\ECommerceAPI.Presentation\obj\Debug\net6.0\refint\ECommerceAPI.Presentation.dll
+C:\Users\LATITUDE\Desktop\MyFirstOnionApi\ECommerceAPI\Infrastructure\ECommerceAPI.Presentation\obj\Debug\net6.0\ECommerceAPI.Presentation.pdb
+C:\Users\LATITUDE\Desktop\MyFirstOnionApi\ECommerceAPI\Infrastructure\ECommerceAPI.Presentation\obj\Debug\net6.0\ref\ECommerceAPI.Presentation.dll
