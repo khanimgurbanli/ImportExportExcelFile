@@ -8,6 +8,6 @@
     "\\Infrastructure\\ECommerceAPI.Presentation",
     "\\Infrastructure\\ECommerceAPI.Presentation\\Sales"
   ],
-  "SelectedNode": "\\Infrastructure\\ECommerceAPI.Presentation\\Sales\\SalesReadRepository.cs",
+  "SelectedNode": "\\ECommerceAPI\\ECommerceAPI\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
